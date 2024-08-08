@@ -1,5 +1,6 @@
 # 网址导航
 [抖音](https://www.douyin.com)，
+[B站](https://www.bilibili.com)，
 
 # 搜索
 [pip搜索](https://pypi.org/search)，
