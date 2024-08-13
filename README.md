@@ -11,8 +11,8 @@
 
 # 搜索
 [pip搜索](https://pypi.org/search)，
-[百度地图](https://map.baidu.com/),
-[有道翻译](https://fanyi.youdao.com/#/),
+[百度地图](https://map.baidu.com/)，
+[有道翻译](https://fanyi.youdao.com/#/)，
 
 # 新闻
 [网易跟帖](https://tie.163.com/#/splendid)
