@@ -1,6 +1,7 @@
 # 网址导航
 [抖音](https://www.douyin.com)，
 [B站](https://www.bilibili.com)，
+[豆瓣](https://www.douban.com/)，
 [github](https://github.com/)
 
 # 抖音博主
