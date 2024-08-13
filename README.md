@@ -1,6 +1,8 @@
 # 网址导航
 [抖音](https://www.douyin.com)，
 [B站](https://www.bilibili.com)，
+[github](https://github.com/)
+
 
 # 搜索
 [pip搜索](https://pypi.org/search)，
@@ -15,3 +17,7 @@
 
 # 新闻
 [网易跟帖](https://tie.163.com/#/splendid)
+
+# 抖音博主
+[跟随我一路路向北](https://www.douyin.com/user/MS4wLjABAAAA3CBvPzh_tHA-XUSlXgvO1BIDzjJyhzvxhI9mq46eHO4)，
+
