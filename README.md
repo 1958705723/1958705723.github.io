@@ -3,7 +3,8 @@
 [B站](https://www.bilibili.com)，
 [豆瓣](https://www.douban.com/)，
 [石墨文档](https://shimo.im/)，
-[github](https://github.com/)
+[github](https://github.com/)，
+[新 天涯论坛](https://www.tianya.net.cn/)
 
 
 # 抖音博主
