@@ -8,7 +8,7 @@
 
 
 # 抖音博主
-[跟随我一路路向北](https://www.douyin.com/user/MS4wLjABAAAA3CBvPzh_tHA-XUSlXgvO1BIDzjJyhzvxhI9mq46eHO4)，
+[跟随我一路向北](https://www.douyin.com/user/MS4wLjABAAAA3CBvPzh_tHA-XUSlXgvO1BIDzjJyhzvxhI9mq46eHO4)，[直播间](https://live.douyin.com/240447641488)
 
 # 搜索
 [pip搜索](https://pypi.org/search)，
