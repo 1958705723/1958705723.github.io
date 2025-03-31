@@ -7,7 +7,10 @@
 [新 天涯论坛](https://www.tianya.net.cn/)
 
 # 大模型
-[豆包]([https://www.douyin.com](https://www.doubao.com/chat/))，
+[deepseek](https://chat.deepseek.com/)，
+[豆包](https://www.doubao.com/chat/)，
+[通义千问](https://tongyi.aliyun.com/qianwen/)，
+
 
 # 抖音博主
 [跟随我一路向北](https://www.douyin.com/user/MS4wLjABAAAA3CBvPzh_tHA-XUSlXgvO1BIDzjJyhzvxhI9mq46eHO4)，[直播间](https://live.douyin.com/240447641488)
