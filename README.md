@@ -18,7 +18,7 @@
 [码上飞](https://www.codeflying.net/)，
 
 # 股市
-[大盘云图](https://52etf.site/)  
+[大盘云图-A股热力图](https://52etf.site/)，
 [金融界-大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/)
 
 # 新闻
