@@ -17,12 +17,14 @@
 [Kimi](https://kimi.moonshot.cn/)，
 [码上飞](https://www.codeflying.net/)，
 
+# 新闻
+[36氪-快讯](https://36kr.com/newsflashes)，
+[东方财富-行业研报](https://data.eastmoney.com/report/hyyb.html)，
+[网易跟帖](https://tie.163.com/#/splendid)，
+
 # 股市
 [大盘云图-A股热力图](https://52etf.site/)，
 [金融界-大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/)
-
-# 新闻
-[网易跟帖](https://tie.163.com/#/splendid)
 
 # 编程
 [github](https://github.com/)，
