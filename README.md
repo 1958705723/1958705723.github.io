@@ -2,8 +2,7 @@
 [抖音](https://www.douyin.com)，
 [B站](https://www.bilibili.com)，
 [豆瓣](https://www.douban.com/)，
-[石墨文档](https://shimo.im/)，
-[新 天涯论坛](https://www.tianya.net.cn/)
+[石墨文档](https://shimo.im/)
 
 [百度翻译](https://fanyi.baidu.com/)，
 [有道翻译](https://fanyi.youdao.com/#/)，
@@ -19,8 +18,8 @@
 [码上飞](https://www.codeflying.net/)，
 
 # 股市
-[大盘云图](https://52etf.site/),
-[金融界-大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/),
+[大盘云图](https://52etf.site/)  
+[金融界-大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/)
 
 # 新闻
 [网易跟帖](https://tie.163.com/#/splendid)
