@@ -10,15 +10,24 @@
 [deepseek](https://chat.deepseek.com/)，
 [豆包](https://www.doubao.com/chat/)，
 [通义千问](https://tongyi.aliyun.com/qianwen/)，
+[Kimi](https://kimi.moonshot.cn/),
+[码上飞](https://www.codeflying.net/),
 
+# 股市
+[大盘云图](https://52etf.site/),
+[金融界-大盘云图](https://summary.jrj.com.cn/dataCenter/dpyt/),
 
 # 抖音博主
 [跟随我一路向北](https://www.douyin.com/user/MS4wLjABAAAA3CBvPzh_tHA-XUSlXgvO1BIDzjJyhzvxhI9mq46eHO4)，[直播间](https://live.douyin.com/240447641488)
 
 # 搜索
 [pip搜索](https://pypi.org/search)，
-[百度地图](https://map.baidu.com/)，
+
+[百度翻译](https://fanyi.baidu.com/)
 [有道翻译](https://fanyi.youdao.com/#/)，
+
+[百度地图](https://map.baidu.com/)，
+[中国地震台网](https://news.ceic.ac.cn/)
 
 # 新闻
 [网易跟帖](https://tie.163.com/#/splendid)
